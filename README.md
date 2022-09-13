@@ -77,7 +77,7 @@ Step :- 2
 ![Footer](https://user-images.githubusercontent.com/101327752/167402345-00739e39-d513-465f-8876-ae9d8538c9c0.png)
 ## Demo
 
- [Demo link here](https://whimsical-eclair-43fec4.netlify.app/) 
+ [Demo link here](https://nordstrom-clone-245a2a.netlify.app/) 
 
 
 ## Authors
